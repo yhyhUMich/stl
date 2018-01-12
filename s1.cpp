@@ -18,5 +18,7 @@ int main (int argc, char** argv) {
 	if (foo(5,4))
 		cout << "A" << endl;
 
+	auto itr = vi.begin();
+
 	return 0;
 }
